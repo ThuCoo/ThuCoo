@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Thu Thảo
 
-<!--
-**ThuCoo/ThuCoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at VNUHCM - University of Science focusing on Data Analysis. I love turning messy data into clear insights.
 
-Here are some ideas to get you started:
+### 🚀 Quick Facts
+- 🎓 **Studying:** B.S. Computer Science at VNUHCM - University of Science
+- 💡 **Interests:** Data Visualization and SQL
+- 🌱 **Currently Learning:** Google Data Analytics Professional Certificate 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- **Languages:** Python, SQL, C++, Javascript
+- **Tools:** Tableau, Power BI, Excel, Jupyter, Git
+- **Databases:** PostgreSQL, MS SQL
+
+### 📊 Projects
+* **[Data Analysis Project on Customers' Shopping Behavior](https://github.com/ThuCoo/DAProject_CustomerBehavior)** - This project analyzes customers' shopping behavior using purchase records across various categories to uncover insights on spending patterns, customer patterns, product preference, and subscription behavior.
+* **[Data Analysis Project on Churn Analysis](https://github.com/ThuCoo/DAProject_Churn)** - Analyzes a multi-dimensional database of OTT platform subscribers to uncover the primary drivers of customer churn; evaluating demographic distribution, subscription tiers, and support escalations, the analysis builds a data-backed retention strategy and identifies key areas for product and customer service improvement.
+* **[Data Analysis Project on Booking.com's Scrapes](https://github.com/ThuCoo/DAProject_BookingScrape)** - Scrapes Booking.com's London properties data to analyze property pricing, geographic distribution, customer sentiment, and temporal trends to uncover competitive market insights.
+
+### 📫 Connect
+- **LinkedIn:** [www.linkedin.com/in/ntthao-hcmus](#)
+- **Email**: [ntthao23@clc.fitus.edu.vn](#)
